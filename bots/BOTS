@@ -1075,7 +1075,7 @@
                 "udp_port": "<port>"
             }
         },
-        "XMPP": {
+        "XMPP3233": {
             "description": "XMPP is the bot responsible to send events to an XMPP server.",
             "module": "intelmq.bots.outputs.xmpp.output",
             "parameters": {
